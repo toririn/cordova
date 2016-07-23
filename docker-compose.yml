@@ -1,0 +1,4 @@
+cordova:
+  build: .
+  container_name: cordova
+  log_driver: json-file
